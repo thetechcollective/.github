@@ -9,7 +9,7 @@ If you are interested in joining our community, here are some ways you can get i
 
 **Follow us on GitHub**  You can find our GitHub organization at [@thetechcollective](https://github.com/thetechcollective). There you can see our latest projects, issues, pull requests, and [discussions](https://github.com/orgs/thetechcollective/discussions). You can also star, fork, and watch our repositories to show your support and stay updated.
 
-**Join the discussions** You can join our public, open [discussions on GitHub]((https://github.com/orgs/thetechcollective/discussions). There you can chat with other members, ask questions, share ideas, and give feedback. The discussions there are divided into different categories, browse and engage.
+**Join the discussions** You can join our public, open [discussions on GitHub](https://github.com/orgs/thetechcollective/discussions). There you can chat with other members, ask questions, share ideas, and give feedback. The discussions there are divided into different categories, browse and engage.
 
 **Contribute to our projects**  You can contribute to our projects by reporting bugs, suggesting features, writing code, creating documentation, designing UI, and more. You can find our contribution guidelines and code of conduct in each project’s repository. Please read and follow them before making any contribution.
 
