@@ -7,6 +7,8 @@ Our goal is to create **useful and innovative** tools and features that can help
 ## How to get involved
 If you are interested in joining our community, here are some ways you can get involved:
 
+**Take an intership with us** ...or become a junior developer (student job). You are eligble for these options if you study at B.Sc. or M.Sc. level in a field relevant to what we do. If you are interested - we have a [sub page dedicated to more details on this](../INTERNSHIP.md) 
+
 **Follow us on GitHub**  You can find our GitHub organization at [@thetechcollective](https://github.com/thetechcollective). There you can see our latest projects, issues, pull requests, and [discussions](https://github.com/orgs/thetechcollective/discussions). You can also **star ⭐, fork 🍴, and watch 👀** our repositories to show your support and stay updated.
 
 **Join the discussions** You can join our public, open [discussions on GitHub](https://github.com/orgs/thetechcollective/discussions). There you can chat with other community members, ask questions, share ideas, and give feedback. Browse and engage.
