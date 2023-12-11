@@ -1,4 +1,4 @@
-[<<Back](../README.md)
+[Home](https://github.com/thetechcollective)
 
 # Take your internship with us
 ## ...or join us as a Junior Developer
