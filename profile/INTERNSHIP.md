@@ -1,12 +1,13 @@
 # Become a Junior Developer or do your internship with us 
 
-<img width="300" align="left" alt="Tech Collective" src="https://github.com/thetechcollective/.github/assets/155492/9b66191f-613b-4237-99fd-2dbc2559c352"> 
-<img width="300" align="left" alt="Tech Collective" src="https://github.com/thetechcollective/.github/assets/155492/8a3c62bb-c5ce-40b9-8fb3-88b29258b270">
-
 **Our community is for joint development of prodcuts and features. But it is _also_ a carefully designed training field - a _dojo_ where you can come and do your _katas_. 
 Read on if you are studying a relevant topic at B.Sc. or M.Sc. level and you are looking for either a full time internship or a student job.**
 
-In The Tech Collective we're facinated by the concept of building quality in - as opposed to try to glue it on to the product after it's released. This concept is not new at all. It's an ideal mentioned in the _Agile Manifesto_. It's the core of _Continious Delivery_ and the _DevOps Culture_. And it's why we strive for _Automated testing_ - well, why we strive for _Automation_ in general.
+<img width="300" align="right" alt="Tech Collective" src="https://github.com/thetechcollective/.github/assets/155492/8a3c62bb-c5ce-40b9-8fb3-88b29258b270">
+
+In The Tech Collective we're facinated by the concept of building quality in - as opposed to try to glue it on to the product after it's released. This concept is not new at all. It's an ideal mentioned in the _Agile Manifesto_. It's the core of _Continious Delivery_ and the _DevOps Culture_. And it's why we strive for _Automated testing_ - well, why we strive for _Automation_ in general. 
+
+<break clear="left"/> 
 
 ## Anything as Code
 We belive in _anything as code._  
@@ -59,5 +60,10 @@ The demand for the products and features we build comes from clients, colleagues
 We will build, release and maintain products based principles typically used for developing Open Source code - a.k.a _Benevolent Dictator Governance Model_. We maintain roadmaps and backlogs, we tie all commits to concrete taks that are prioritized based on principles for kanban task management. We work work in build-measure-learn loops around Minimum Viable Products. We steer and either pivot or perservere based on the feedback we get from our users. We work in a _Social Coding_ invironment which is a showcase of an Internal Develoment Platform.
 
 ## Reach out - touch faith
+
+<img width="100" alt="Personal Jesus" align="left" src="https://github.com/thetechcollective/.github/assets/155492/4386bf30-0638-4e23-9d70-3ba907e3bd7c">
+
+A common prediction these days is that more and more software in the future will be done by chats and generative AI, but the eco-system that surrounds software - generativbe ai included, is so carefully adapted the individual team, organizations, tool stack and domain knowledge, that this is not merely _distilled wisdom of the crowd_  which is the force og Generative AI. It calls for sophisitcted thinking and rehearsed problem solving skills.  _"Reach out, touch faith"_ is the chorous line in Depeche Mode's legendary hit ["Personal Jesus"](https://www.youtube.com/watch?v=u1xrNaTO1bI) - We offer you a chance to reach out and touch faith; start building your own personal career in software and tech. If software is truly eating the world - you job should be to tame the software.
+
 
 
