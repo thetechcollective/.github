@@ -20,7 +20,7 @@ If _whetever you're trying to achieve_ can be solved by a snippet of software, t
 - It's released as packages
 - It's maintained
 
-Alright, this may not sound like a big deal. But it is!. If we turn up the ambition a notch or two and claim that the properties mentioned above are not optional - they are required. The we enter into a quite complex field of software. We're not merely _programming_ or _hacking_ anymore. Now we have to deal with the entire eco-system that surrounds code. 
+Alright, this may not sound like a big deal. But it is!. We will turn up the ambition a notch or two and claim that the properties mentioned above are not optional - they are required. Hereby we enter into a quite complex field of software. We're not merely _programming_ or _hacking_ anymore. Now we have to deal with the entire eco-system that surrounds code. 
 
 ...as code!
 
@@ -41,5 +41,8 @@ The story of The Toyota Way has many more nuances than described in the three pa
 
 ## Enter our dojo - do some katas
 
-The field we're entering can be refered to as _Software Development Life Cycle (SDLC)_ management or by terms such as _Continuous Delivery_ and _DevOps_ and no matter by what term we name it, it's build on the same one-piece-flow mindsat as Toyota introduced. In realty though; this is complex - by nature probably even more complex than building a car, due to the inheretly untangible nature of software.
+The field we're entering can be refered to as _Software Development Life Cycle (SDLC)_ management or by terms such as _Continuous Delivery_ and _DevOps_ but no matter by what term we name it, it's build on the same one-piece-flow mindset as Toyota introduced. In realty though; this is complex - by nature probably even more complex than building a car, due to the inheretly untangible nature of software.
 
+In The Tech Collective we build and continious imporve this eco-system. And we're inviting you to join us. Every time we release a small snippet of code, we will strive to establish this eco-system around it. This eco-system around code is essentially what we help and assist our customers in establishing. We make sure that the charactaristics we define for code done right apply. We construct one-piece-flows and hereby gurantee that problems surface early, then we solve them, and eventually we build quality in - Jidoka.
+
+<img width="300" align="left" alt="Wax on - wax off" src="https://github.com/thetechcollective/.github/assets/155492/a170db5c-c4d7-4767-a570-0055a1c62ef2"> Toyota also adopted the concept af _katas_ - In karate a kata is an exercise, a series of movement you train over and over again, until you know them by heart.- [Recall](https://www.youtube.com/watch?v=-P11Bcpyw4g)  Danny Laruso - The Karate Kid, when Mr. Myagi forced him to wash and polish cars _"wax on - wax off"_ That was a kata.
